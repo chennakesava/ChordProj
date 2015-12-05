@@ -1,2 +1,2 @@
-# MyChordProj
-Chord protocol implementation in scala
+# ChordProj
+It's Chord protocol implementation in scala
